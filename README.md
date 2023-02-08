@@ -1,8 +1,8 @@
-Mastodon Timeline
-A python package to access Mastodon timelines.
+###Mastodon Timeline
+A react package to access Mastodon timelines.
 
 Introduction
-Mastodon is a free, open-source, decentralized microblogging network. This package provides an easy way to access Mastodon timelines using Python. With Mastodon Timeline, you can retrieve the latest toots (posts) from a Mastodon instance or a user's timeline.
+Mastodon is a free, open-source, decentralized microblogging network. This package provides an easy way to access Mastodon timelines using React. With Mastodon Timeline, you can retrieve the latest toots (posts) from a Mastodon instance or a user's timeline.
 
 Installation
 You can install the Mastodon Timeline package by running the following command in your terminal:
