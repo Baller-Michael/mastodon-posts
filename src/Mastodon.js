@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
 
-function App() {
+function Mastodon() {
   const [posts, setPosts] = useState([]);
 
   const getUserPosts = async (userId) => {
@@ -50,4 +50,4 @@ function App() {
   );
 }
 
-export default App;
+export default Mastodon;
